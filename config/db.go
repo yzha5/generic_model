@@ -20,7 +20,7 @@ var (
 			Host:      "127.0.0.1",
 			Port:      3306,
 			User:      "root",
-			Pwd:       "8905130",
+			Pwd:       "root",
 			Database:  "gen_model",
 			IsRunning: true,
 		},
